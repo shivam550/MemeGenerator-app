@@ -1,0 +1,22 @@
+.header{
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    width: 900px;
+    height: 95px;
+    display: flex;
+    align-items:center ;
+    padding: 20px;
+    color: #ffffff;
+    margin: auto;
+}
+.logo{
+    height: 100%;
+    margin-right:10px;
+}
+.heading{
+    font-size: 25px;
+    margin-right: auto;
+}
+.header-project{
+    font-size: 21px;
+    
+}
